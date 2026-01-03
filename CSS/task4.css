@@ -1,0 +1,55 @@
+* {
+    background-color: rgb(200, 170, 214);
+
+}
+.banner{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(152, 25, 152);
+    background-image: url(../images/banner.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 100%;
+    background-position: center;
+}
+.blog1 {
+    padding: 30px;
+    text-align: justify;
+} 
+.blog1 h2 {
+    color: rgb(119, 80, 205);
+    font-size: 30px;
+
+}
+
+.blog2 {
+    padding: 30px;
+    text-align: justify;
+    color: crimson;
+} 
+.blog2 h2 {
+    color: teal;
+    font-size: 30px;
+
+}
+
+.blog3 {
+    padding: 30px;
+    text-align: justify;
+    color: rgb(51, 12, 226);
+} 
+.blog3 h2 {
+    color: rgb(169, 46, 120);
+    font-size: 30px;
+
+}
+p {
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+button {
+    padding: 10px 20px;
+    background-color: teal;
+    border-radius: 5px;
+}
